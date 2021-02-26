@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Somov_Pract_23"
         mc:Ignorable="d"
-        Title="MainWindow" Height="320" Width="575" ResizeMode="CanMinimize" Topmost="True">
+        Title="Рисовака" Height="320" Width="575" ResizeMode="CanMinimize" Topmost="True">
     <Grid>
         <Menu Height="20" VerticalAlignment="Top">
             <MenuItem Header="Рисунок">
